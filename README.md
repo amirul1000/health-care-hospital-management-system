@@ -2,8 +2,7 @@
 
 
 
-Medical Doctore Care  & Hospital Management System in CodeIgniter
-=================================================================
+Hospital Management System (Doctore Care) in PHP & MYSQL CodeIgniter Framework ==============================================================================
 
 
 
